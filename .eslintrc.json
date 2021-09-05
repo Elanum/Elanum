@@ -14,7 +14,8 @@
     "@typescript-eslint/explicit-function-return-type": "error",
     "@typescript-eslint/explicit-member-accessibility": "error",
     "@typescript-eslint/naming-convention": ["error"],
-    "react/react-in-jsx-scope": "off",
-    "react/jsx-props-no-spreading": "off"
+    "jsx-a11y/anchor-is-valid": "off",
+    "react/jsx-props-no-spreading": "off",
+    "react/react-in-jsx-scope": "off"
   }
 }
